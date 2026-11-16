@@ -32,6 +32,7 @@ Pkg.add("Lenticulum")
 | `ImplicitLayers` | same | `lib/ImplicitLayers.jl` |
 | `Adversarial` | same | `lib/Adversarial.jl` |
 | `AlgebraicFactors` | same | `lib/AlgebraicFactors.jl` |
+| `FerriteAdaptiveTriangular` | [DanielBoigk/FerriteAdaptiveTriangular.jl](https://github.com/DanielBoigk/FerriteAdaptiveTriangular.jl) | (root) |
 
 `Adversarial` shares its name with an unrelated package in General. `Pkg.add("Adversarial")`
 therefore asks which one is meant; to choose without the prompt:
