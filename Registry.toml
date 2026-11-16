@@ -1,0 +1,7 @@
+name = "MathStruct"
+uuid = "736844c7-db01-4589-8683-a491dcd2ee82"
+repo = "https://github.com/MathStruct/Registry.git"
+
+description = "Julia package registry of the MathStruct projects"
+
+[packages]
