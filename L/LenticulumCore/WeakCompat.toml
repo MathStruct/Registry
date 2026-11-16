@@ -1,0 +1,8 @@
+[0]
+BayesBase = "1"
+ChainRulesCore = "1"
+DifferentiationInterface = "0.7"
+Distributions = "0.25"
+ExponentialFamily = "2"
+ForwardDiff = ["0.10", "1"]
+GPUArraysCore = "0.2"

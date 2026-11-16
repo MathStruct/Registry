@@ -1,0 +1,4 @@
+name = "MyceliumLearning"
+uuid = "7d2f6c1e-4a93-4b0e-9c57-3e8a1f6b2d40"
+repo = "https://github.com/MathStruct/Lenticulum.jl.git"
+subdir = "lib/MyceliumLearning.jl"

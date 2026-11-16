@@ -1,0 +1,4 @@
+name = "AlgebraicFactors"
+uuid = "5937a757-1681-44a0-82a2-3722a0d5745f"
+repo = "https://github.com/MathStruct/Lenticulum.jl.git"
+subdir = "lib/AlgebraicFactors.jl"

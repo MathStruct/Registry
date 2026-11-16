@@ -1,0 +1,4 @@
+name = "LenticulumCore"
+uuid = "1ac3b398-e9e9-400d-83fd-862c57ff485d"
+repo = "https://github.com/MathStruct/Lenticulum.jl.git"
+subdir = "lib/LenticulumCore.jl"

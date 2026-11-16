@@ -1,0 +1,4 @@
+name = "Mycelium"
+uuid = "0a724bc2-760c-4b8c-a26e-202a6d9695cb"
+repo = "https://github.com/MathStruct/Lenticulum.jl.git"
+subdir = "lib/Mycelium.jl"
