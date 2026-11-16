@@ -1,0 +1,4 @@
+name = "AdversarialFactors"
+uuid = "952efbab-e437-447d-9da7-09f243bc8a38"
+repo = "https://github.com/MathStruct/Lenticulum.jl.git"
+subdir = "lib/AdversarialFactors.jl"
