@@ -1,0 +1,3 @@
+name = "KrylovBlockCG"
+uuid = "1d5e00f8-f3d2-4e05-8e0a-3b5becc64256"
+repo = "https://github.com/DanielBoigk/KrylovBlockCG.jl.git"

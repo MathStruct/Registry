@@ -33,6 +33,7 @@ Pkg.add("Lenticulum")
 | `Adversarial` | same | `lib/Adversarial.jl` |
 | `AlgebraicFactors` | same | `lib/AlgebraicFactors.jl` |
 | `FerriteAdaptiveTriangular` | [DanielBoigk/FerriteAdaptiveTriangular.jl](https://github.com/DanielBoigk/FerriteAdaptiveTriangular.jl) | (root) |
+| `KrylovBlockCG` | [DanielBoigk/KrylovBlockCG.jl](https://github.com/DanielBoigk/KrylovBlockCG.jl) | (root) |
 
 `Adversarial` shares its name with an unrelated package in General. `Pkg.add("Adversarial")`
 therefore asks which one is meant; to choose without the prompt:

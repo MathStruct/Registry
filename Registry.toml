@@ -7,6 +7,7 @@ description = "Julia package registry of the MathStruct projects"
 0a724bc2-760c-4b8c-a26e-202a6d9695cb = { name = "Mycelium", path = "M/Mycelium" }
 10e3cd81-921f-451a-a702-c2ffb0ce59e8 = { name = "FerriteAdaptiveTriangular", path = "F/FerriteAdaptiveTriangular" }
 1ac3b398-e9e9-400d-83fd-862c57ff485d = { name = "LenticulumCore", path = "L/LenticulumCore" }
+1d5e00f8-f3d2-4e05-8e0a-3b5becc64256 = { name = "KrylovBlockCG", path = "K/KrylovBlockCG" }
 3c0d5f2a-7b41-4e88-9a6d-1f5c8e2b4471 = { name = "ImplicitLayers", path = "I/ImplicitLayers" }
 5937a757-1681-44a0-82a2-3722a0d5745f = { name = "AlgebraicFactors", path = "A/AlgebraicFactors" }
 5b7e1c94-8d3a-4f26-b0e1-7a9c25d4f318 = { name = "Adversarial", path = "A/Adversarial" }
