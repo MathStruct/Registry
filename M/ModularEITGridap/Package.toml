@@ -1,0 +1,4 @@
+name = "ModularEITGridap"
+uuid = "58d78e9a-fdc2-4304-9f8d-8431e81fc239"
+repo = "https://github.com/DanielBoigk/ModularEIT.jl.git"
+subdir = "lib/ModularEITGridap"

@@ -1,0 +1,12 @@
+[0]
+AbstractFFTs = "1.5.0-1"
+AlgebraicMultigrid = "2"
+FFTW = "1.10.0-1"
+KernelAbstractions = "0.9.42-0.9"
+Krylov = "0.10.12-0.10"
+KrylovBlockCG = "0.1"
+LDLFactorizations = "0.10.2-0.10"
+LinearAlgebra = "1"
+Random = "1"
+SparseArrays = "1"
+julia = "1.12.0-1"

@@ -1,0 +1,4 @@
+name = "ModularEITFerrite"
+uuid = "4e1b8f0b-f07f-4a56-87d6-d07522e0b7e4"
+repo = "https://github.com/DanielBoigk/ModularEIT.jl.git"
+subdir = "lib/ModularEITFerrite"

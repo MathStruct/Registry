@@ -1,0 +1,4 @@
+[0]
+CUDA = "6"
+CUDSS = "0.8"
+ChainRulesCore = "1"
