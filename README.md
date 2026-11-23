@@ -56,6 +56,12 @@ The last three have not yet been reviewed as closely as the core packages.
 | `FerriteAdaptiveTriangular` | [DanielBoigk/FerriteAdaptiveTriangular.jl](https://github.com/DanielBoigk/FerriteAdaptiveTriangular.jl) | conforming adaptive refinement of triangle meshes for Ferrite.jl (newest vertex bisection) |
 | `KrylovBlockCG` | [DanielBoigk/KrylovBlockCG.jl](https://github.com/DanielBoigk/KrylovBlockCG.jl) | block conjugate gradients for Krylov.jl, with an optional projection onto a null space |
 
+### Finite fields
+
+| package | repository | what it gives you |
+|---|---|---|
+| `FiniteFieldArithmetic` | [MathStruct/FiniteFields](https://github.com/MathStruct/FiniteFields), `julia/FiniteFieldArithmetic.jl` | finite-field arithmetic, characteristic 2 first: the nimber fields GF(2) ⊂ GF(4) ⊂ … ⊂ GF(2^128) |
+
 ## Versions
 
 Most of these packages are research prototypes with pre-release versions (`0.0.1-dev`). A

@@ -12,6 +12,7 @@ description = "Julia package registry of the MathStruct projects"
 4e1b8f0b-f07f-4a56-87d6-d07522e0b7e4 = { name = "ModularEITFerrite", path = "M/ModularEITFerrite" }
 58d78e9a-fdc2-4304-9f8d-8431e81fc239 = { name = "ModularEITGridap", path = "M/ModularEITGridap" }
 5937a757-1681-44a0-82a2-3722a0d5745f = { name = "AlgebraicFactors", path = "A/AlgebraicFactors" }
+73eabe54-ef1b-4d04-bb6e-801967fb358c = { name = "FiniteFieldArithmetic", path = "F/FiniteFieldArithmetic" }
 7608eb13-d8ec-417a-a672-b3f475c1af64 = { name = "ModularEIT", path = "M/ModularEIT" }
 7d2f6c1e-4a93-4b0e-9c57-3e8a1f6b2d40 = { name = "MyceliumLearning", path = "M/MyceliumLearning" }
 80a378fd-9e01-49e8-9939-ada6559002ad = { name = "Lenticulum", path = "L/Lenticulum" }
