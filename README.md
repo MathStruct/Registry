@@ -35,6 +35,7 @@ with one package for each directory under `lib/`. Documentation:
 
 | package | what it gives you |
 |---|---|
+| `ImplicitSolvers` | shared numerical solvers: tolerances, linear systems, roots, implicit adjoints |
 | `LenticulumCore` | what a factor is: channels, polarities, beliefs, energies |
 | `Mycelium` | inference: graphs, messages, schedules, plates, cluster nodes, the free energy |
 | `MyceliumLearning` | learning: free-energy gradients, expectation maximisation, the optimiser step |

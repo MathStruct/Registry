@@ -1,0 +1,4 @@
+name = "ImplicitSolvers"
+uuid = "248397c0-0a23-4829-91d8-bb8f51737c30"
+repo = "https://github.com/MathStruct/Lenticulum.jl.git"
+subdir = "lib/ImplicitSolvers.jl"
