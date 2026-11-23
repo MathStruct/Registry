@@ -5,3 +5,7 @@ ForwardDiff = ["0.10", "1"]
 [20261116]
 ChainRulesCore = "1"
 ForwardDiff = ["0.10", "1"]
+
+[20261123]
+ChainRulesCore = "1"
+ForwardDiff = ["0.10", "1"]
